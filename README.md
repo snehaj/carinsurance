@@ -31,5 +31,6 @@ To start using the application:
 open you terminal or cmd
 clone the project
 change directory to the project's directory
+run command composer install
 PHP -S localhost:80
 
