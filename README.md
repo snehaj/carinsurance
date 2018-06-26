@@ -25,6 +25,27 @@ Project structure
 5) Sql has Database and query file
 6) Assets has js and css using
 
+Task Files
+===============
+
+Task1
+   1) Home controller/index action is used for first task   the loop is printing in the 
+         view file views/home/index.php
+         url - Home/index
+         -----------------------------------------
+Task2
+  1)PriceController/index action is used for second task,all the logic is handled in helpers/calculation.php 
+   and view maintained in views/price/index.php
+      url - Price/index
+       --------------------------------------------
+       
+ Task 3
+   1)The query and db structure download file is also handled in Home controller/db action
+         view file  views/home/query.php
+         url - Home/db
+    ----------------------------------------------------------------
+         
+
 
 To start using the application:
 ===============================
