@@ -1,0 +1,15 @@
+{
+    "name": "insly/test-task",
+    "description": "test task for insly project",
+    "type": "project",
+    "require": {
+        "php": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "sneha",
+            "email": "snehavjose@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

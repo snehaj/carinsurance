@@ -1,0 +1,13 @@
+{  
+   "commision":17,
+   "baseprice":11,
+   "custprice":13,
+   "custday":5,
+   "custminHR":15,
+   "custmaxHR":20,
+   "priceMin":100,
+   "priceMax":10000,
+   "taxMin":0,
+   "taxMax":100
+    
+}
